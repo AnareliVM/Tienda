@@ -1,0 +1,41 @@
+.navbar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom-style: solid;
+    border-bottom-color: yellow;
+    border-bottom-width: 2px;
+}
+.navbar img{
+    width: 25%;
+}
+.navbar h4{
+    margin-top: 35px;
+}
+#EmpleadosControl{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#EmpleadosControl h6{
+    color:#04D34C;
+    font-weight: bold;
+}
+#EmpleadosControl .btn{
+    background-image: linear-gradient(to right top, #29e49f, #1ddea2, #10d9a4, #04d3a6, #00cda7, #00c8a8, #00c2a9, #00bda9, #00b7a9, #00b1a8, #00aba7, #00a5a5);
+}
+#NuevoEmpleado #btnEmpleadosCaptura{
+    background-image: linear-gradient(to right top, #29e49f, #1ddea2, #10d9a4, #04d3a6, #00cda7, #00c8a8, #00c2a9, #00bda9, #00b7a9, #00b1a8, #00aba7, #00a5a5);
+}
+#editarEmpleado #btnEmpleadosUpdate{
+    background-image: linear-gradient(to right top, #29e49f, #1ddea2, #10d9a4, #04d3a6, #00cda7, #00c8a8, #00c2a9, #00bda9, #00b7a9, #00b1a8, #00aba7, #00a5a5);
+}
+#eliminarEmpleado #btnEmpleadosUpdate2{
+    background-image: linear-gradient(to right top, #29e49f, #1ddea2, #10d9a4, #04d3a6, #00cda7, #00c8a8, #00c2a9, #00bda9, #00b7a9, #00b1a8, #00aba7, #00a5a5);
+}
+.error{
+    color: red;
+    font-size: 11px;
+    margin: 5px;
+}
+ .correcto i{
+    color: greenyellow;
+}
